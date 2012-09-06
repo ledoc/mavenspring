@@ -13,7 +13,7 @@ public class JettyServerStartup {
 	/*
 	 * Takes two command line argument port and mode
 	 * port must an integer number. Default port is 8080.
-	 * Mode can be either dev or prod. Default mode is prod.
+	 * Mode can be either dev or prod. Default mode is dev.
 	 */
 	public static void main(String[] args) {
 		int port = 8080;
